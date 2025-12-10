@@ -1,4 +1,3 @@
-✅ FINAL README.md (Complete Version)
 # 📌 FIR Paradox With Automation  
 ### **An AI-Driven Framework for Smart FIR Management**
 
