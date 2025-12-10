@@ -119,6 +119,7 @@ PORT=5000
 
 Frontend (.env)
 VITE_API_URL=http://localhost:5000
+```
 
 📸 Screenshots (UI Showcase)
 🔹 Landing Page
