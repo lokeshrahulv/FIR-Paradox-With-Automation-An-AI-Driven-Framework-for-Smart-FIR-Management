@@ -121,43 +121,42 @@ Frontend (.env)
 VITE_API_URL=http://localhost:5000
 ```
 
-📸 Screenshots (UI Showcase)
-🔹 Landing Page
-
+## 📸 Screenshots (UI Showcase)
+## 🔹 Landing Page
 <img width="1920" height="1080" alt="landing page" src="https://github.com/user-attachments/assets/ae8fdf51-ec2a-46ab-825c-61fd0929a1d5" />
 
-🔹 Police Login
+## 🔹 Police Login
 <img width="1919" height="1079" alt="POLICE LOGIN" src="https://github.com/user-attachments/assets/b4d4b415-c138-4334-93ca-32b55be8f67c" />
 
-🔹 Officer Profiles
+## 🔹 Officer Profiles
 <img width="1920" height="1080" alt="DETAIL OFFICERS LIST" src="https://github.com/user-attachments/assets/f89af75b-1188-428d-b902-b9b91a58eb33" />
 
-🔹 Wanted / Missing Registry
+## 🔹 Wanted / Missing Registry
 <img width="1918" height="1078" alt="MISSING AND WANTED " src="https://github.com/user-attachments/assets/d633cb43-dbea-4f80-957b-324289eb8146" />
 
-🔹 Legal Reference Sections Hub
+## 🔹 Legal Reference Sections Hub
 <img width="1920" height="1080" alt="SECTIONS" src="https://github.com/user-attachments/assets/c6bd1130-7625-483d-8c62-bb1dc04efb7e" />
 
-🔹 FIR Case Timeline
+## 🔹 FIR Case Timeline
 <img width="1919" height="1079" alt="TIME LINE" src="https://github.com/user-attachments/assets/31db61a8-4d92-429a-b10d-e2af6e2d84e4" />
 
-🔹 Police Dashboard
+## 🔹 Police Dashboard
 <img width="1917" height="1077" alt="Track FIR" src="https://github.com/user-attachments/assets/f39e4ae2-7ad2-4dba-8e81-ee7856f38b73" />
 
-🔹 Download FIR
+## 🔹 Download FIR
 <img width="1918" height="1078" alt="DOWNLOAD FIR" src="https://github.com/user-attachments/assets/b9314cc3-8a5a-4271-8141-42aa47a891b4" />
 
-🔹 Track FIR (Citizen)
+## 🔹 Track FIR (Citizen)
 <img width="1917" height="1077" alt="Track FIR" src="https://github.com/user-attachments/assets/8f95c6e0-c7d5-4de2-8183-7958e1a6ca51" />
 
-🔹 User Details ( Admin )
+## 🔹 User Details ( Admin )
 <img width="1305" height="850" alt="USER DETAILS" src="https://github.com/user-attachments/assets/93f2a00b-bd14-47e9-a721-c84f0a39cead" />
 
-🔹 Attendance (Police)
+## 🔹 Attendance (Police)
 <img width="1237" height="968" alt="ATTENDANCE" src="https://github.com/user-attachments/assets/7ad391e4-035c-4194-b369-b769a3dac808" />
 
-🔹 Judge Portal
+## 🔹 Judge Portal
 <img width="1531" height="970" alt="JUDGE DECISION" src="https://github.com/user-attachments/assets/30a1c9af-0fee-4fe8-b51d-8f45cb862629" />
 
-🔹 Admin Analytics
+## 🔹 Admin Analytics
 <img width="825" height="786" alt="ADMIN PORTAL" src="https://github.com/user-attachments/assets/8cf86af1-f634-49f8-b5ae-03563777c06b" />
