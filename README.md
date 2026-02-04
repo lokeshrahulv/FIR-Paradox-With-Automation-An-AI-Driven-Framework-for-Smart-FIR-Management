@@ -1,4 +1,4 @@
-# 📌 FIR Paradox With Automation An AI-Driven Framework for Smart FIR Management
+# 📌 AI-Driven Framework for Smart FIR Management
 ### **An AI-Driven Framework for Smart FIR Management**
 
 FIR Paradox is an end-to-end digital FIR lifecycle management system designed for Government and Police operations.  
